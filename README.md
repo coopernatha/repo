@@ -112,8 +112,6 @@ Get the latest version for your operating system below:
 
 bash
 
-КопироватьРедактировать
-
 `git clone https://github.com/yourusername/electrum-dime.git cd electrum-dime
 python3 run_electrum` 
 
